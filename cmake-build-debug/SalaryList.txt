@@ -1,0 +1,5 @@
+Mary Poppins 10.12.2000 2345.45 RUB
+John Smith 3.4.1998 987.34 RUB
+Jacky Chan 1.11.1987 23478.12 RUB
+First Second 9.11.1999 3456.89 RUB
+Hight John 1.1.2015 35643.12 RUB
